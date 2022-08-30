@@ -1,5 +1,7 @@
 # PLEASE READ!
 
+# MOST IMPORTANTLY:
+   This Repo was made by @alexschimpf, the only thing I am doing here is remaking it to also work in europe (at least switzerland) since it has been made for the US-Site! And I will, of course, delete this if he tells me to!
 
 This is a Selenium bot for buying a given sneaker from the Nike Snkrs website ON RELEASE DAY.
    It will not work for sneakers that are past their release day (or later in the release day).
