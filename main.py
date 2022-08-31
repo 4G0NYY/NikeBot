@@ -43,7 +43,7 @@ logging.config.dictConfig({
 })
 
 
-NIKE_HOME_URL = "https://www.nike.com/login"
+NIKE_HOME_URL = "https://www.nike.com/ch/member/profile/login?continueUrl=https://www.nike.com/ch/"
 SUBMIT_BUTTON_XPATH = "/html/body/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/div/div/div[6]/button"
 LOGGER = logging.getLogger()
 
@@ -254,7 +254,7 @@ def retry_login(driver, username, password):
             LOGGER.info("Logging in")
             
             try:
-                driver.find_element_by_xpath("//input[@value='SIGN IN']").click()
+                driver.find_element_by_xpath("//input[@value='ANMELDEN']").click()
             except Exception as e:
                 if num_retries_attempted < num_retries:
                     num_retries_attempted += 1
