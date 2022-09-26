@@ -1,5 +1,7 @@
 # PLEASE READ!
 
+I know there is also the "experimental" version of this, I wouldn't recommend using it tho and rather use the main one, since I don't believe it will be faster, I can't even say for sure if it will work at all, so yeah.
+
 # MOST IMPORTANTLY:
  This Repo was made by @alexschimpf, the only thing I am doing here is remaking it to also work in europe (at least switzerland) since it has been made for the US-Site! And I    will, of course, delete this if he tells me to!
 

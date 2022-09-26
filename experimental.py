@@ -23,6 +23,8 @@ Current implementation:
     
 Not sure if this will be any faster than the other script...
 
+I wouldn't recommend this script, I very much believe this will be slower than the main one...
+
 """
 
 
@@ -173,7 +175,7 @@ def add_item_to_cart(driver, product_id, sku_id, size):
     headers = {
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) "
                       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
-        "origin": "https://www.nike.com",
+        "origin": "https://www.nike.com/ch/",
         "accept-encoding": "gzip, deflate, br",
         "accept-language": "en-US,en;q=0.9",
         "accept": "*/*",
