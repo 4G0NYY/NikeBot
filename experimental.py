@@ -50,9 +50,9 @@ logging.config.dictConfig({
     }
 })
 
-NIKE_HOME_URL = "https://www.nike.com/us/en_us/"
-NIKE_CHECKOUT_URL = "https://www.nike.com/checkout"
-NIKE_CART_API_URL = "https://secure-store.nike.com/us/services/jcartService"
+NIKE_HOME_URL = "https://www.nike.com/ch/member/profile/login?continueUrl=https://www.nike.com/ch/"
+NIKE_CHECKOUT_URL = "https://www.nike.com/ch/member/profile/login?continueUrl=https://www.nike.com/ch/cart?signInType=login&toCheckout=true"
+NIKE_CART_API_URL = "https://www.nike.com/ch/cart"
 LOGGER = logging.getLogger()
 
 
