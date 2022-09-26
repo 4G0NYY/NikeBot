@@ -12,7 +12,7 @@ I know there is also the "experimental" version of this, I wouldn't recommend us
 
 This is a Selenium bot for buying a given sneaker from the Nike Snkrs website ON RELEASE DAY.
    It will not work for sneakers that are past their release day (or later in the release day).
-   `Please note that this script was written with the US site in mind, so Nike sites for other countries will likely cause problems.`
+   `Please note that this script was written with the swiss site in mind, so Nike sites for other countries will likely cause problems.`
    This is because the purchase page changes to where the buy button redirects to a seperate checkout page (as opposed to a direct buy popup during release).
 It is a commandline script written solely in python. `Please run with python 3.7.`
 There are 6 selenium drivers in the bin directory for both Chrome and Firefox on Linux, MacOS, and Winows. `The drivers for other operating systems need to be installed from the instructions below.`
