@@ -31,7 +31,7 @@
          * From Python's official website [here](https://www.python.org/downloads/windows/)
          * If you have the [Chocolatey package manager](https://chocolatey.org/) installed, you can run `choco install python`
 
-1. The selenium webdrivers for your chosen browser
+   1. The selenium webdrivers for your chosen browser
 
 
    ## Installing the web drivers

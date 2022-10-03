@@ -166,7 +166,7 @@ def run(driver, shoe_type, username, password, url, shoe_size, shipping_option, 
                         six.reraise(Exception, e, sys.exc_info()[2])
                 
                 try:
-                    # Use explicit xpath since iframe from cvv causes issues with normal xpath
+                    # Use explicit xpath since iframe from cvv causes issues with normal xpath (nice)
                     xpath = "/html/body/div[2]/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div/span/span[1]/div/button"
                     click_save_button(driver=driver, xpath_o=xpath)                    
                 except Exception as e:
