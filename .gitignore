@@ -2,3 +2,5 @@ geckodriver.log
 pip-selfcheck.json
 venv
 .idea
+
+#You can just ignore this file

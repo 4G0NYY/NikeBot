@@ -3,3 +3,5 @@ python-dateutil==2.7.3
 selenium==3.14.0
 six==1.11.0
 urllib3==1.24.2
+
+#just do "pip install /path/to/this/file/requirements.txt"
