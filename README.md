@@ -3,7 +3,7 @@
 # (for the end-user) most important stuff first, I know there is also an experimental version using the nike-apis, I'd really recommend using the "main.py"-version tho since the nike-apis honestly suck ;)
 
 # MOST IMPORTANTLY:
- This Repo was made by @alexschimpf, the only thing I am doing here is remaking it to also work in europe (at least switzerland) since it has been made for the US-Site and redoing some smaller things which I think are better this way, this doesn't mean they are tho! And I will, of course, delete this if he tells me to!
+ This Repo was made by @alexschimpf (who I added as a contributor, you can find his profile there), the only thing I am doing here is remaking it to also work in europe (at least switzerland) since it has been made for the US-Site and redoing some smaller things which I think are better this way, this doesn't mean they are tho! And I will, of course, delete this if he tells me to!
    
 # How to use it
    # Getting started
