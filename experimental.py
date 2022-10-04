@@ -161,7 +161,7 @@ def add_item_to_cart(driver, product_id, sku_id, size):
     cookies = driver.get_cookies()
     params = {
         "action": "addItem",
-        "lang_locale": "en_US",
+        "lang_locale": "de_GE",
         "catalogId": "1",
         "productId": product_id,
         "qty": "1",
