@@ -1,4 +1,5 @@
 import os
+from socket import NETLINK_ROUTE
 import sys
 import six
 import pause
@@ -55,6 +56,7 @@ logging.config.dictConfig({
 NIKE_HOME_URL = "https://www.nike.com/ch/member/profile/login?continueUrl=https://www.nike.com/ch/"
 NIKE_CHECKOUT_URL = "https://www.nike.com/ch/member/profile/login?continueUrl=https://www.nike.com/ch/cart?signInType=login&toCheckout=true"
 NIKE_CART_API_URL = "https://www.nike.com/ch/cart"
+NETLINK_ROUTE = "https://nike.com"
 LOGGER = logging.getLogger()
 
 
